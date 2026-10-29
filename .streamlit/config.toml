@@ -1,0 +1,11 @@
+# Save this file as  .streamlit/config.toml  (a folder named .streamlit next to the dashboard script)
+[theme]
+base = "dark"
+primaryColor = "#F7C600"
+backgroundColor = "#0B1F3A"
+secondaryBackgroundColor = "#0F2A4E"
+textColor = "#F4F6F8"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
